@@ -33,7 +33,7 @@
         },
         "user_bot": {
             "description": "يوزر البوت بدون ـ@ـ",
-            "value": 'i0iIbot",
+            "value": "i0iIbot",
             "required": true
         },
         "id_bot": {
