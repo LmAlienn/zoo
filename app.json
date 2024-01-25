@@ -43,7 +43,7 @@
         },
     "session": {
         "description": "كود تيرمكـس",
-        "value": "0o",
+        "value": "",
         "required": true
     }
   }
